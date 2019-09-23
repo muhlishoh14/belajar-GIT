@@ -1,4 +1,5 @@
-senin : Boostrap , GIT
+senin :  GIT
 selasa : SIM
-rabu : kosong
+
 kamis : GNS 3
+jumat : Triger DB
