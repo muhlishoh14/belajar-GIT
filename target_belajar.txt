@@ -3,3 +3,5 @@ selasa : SIM
 
 kamis : GNS 3
 jumat : Triger DB
+sabtu : misbah pergi ke jombang
+minggu : misbah ngopi
