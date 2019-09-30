@@ -1,4 +1,8 @@
-senin : Boostrap , GIT
-selasa : SIM
-rabu : kosong
+senin : GIT (Branch , Merge)
+senin : Desain Antarmuka (Wireframe)
+selasa : SIM (Sistem Informasi Manajemen)
+
 kamis : GNS 3
+jumat : Triger DB
+sabtu : Misbah Tugas Kelompok UI
+minggu : Misbah Tugas Kelompok Basis Data Lanjut
