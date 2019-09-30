@@ -1,10 +1,11 @@
-senin :  GIT
-selasa : SIM
+senin : GIT (Branch , Merge)
+senin : Desain Antarmuka (Wireframe)
+selasa : SIM (Sistem Informasi Manajemen)
 
 kamis : GNS 3
 jumat : Triger DB
-sabtu : misbah pergi ke jombang
-minggu : misbah ngopi
+sabtu : Misbah Tugas Kelompok UI
+minggu : Misbah Tugas Kelompok Basis Data Lanjut
 
 
-file di master
+ini file nya branch
