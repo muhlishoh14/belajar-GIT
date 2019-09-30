@@ -1,7 +1,8 @@
-senin :  GIT
-selasa : SIM
+senin :  GIT (Target Belajar)
+senin : Desain Antarmuka (Wireframe)
+selasa : SIM (Sistem Informasi Manajemen)
 
 kamis : GNS 3
 jumat : Triger DB
-sabtu : misbah pergi ke jombang
-minggu : misbah ngopi
+sabtu : Misbah Tugas Kelompok UI
+minggu : misbah Tugas Kelompok Basis Data Lanjut
