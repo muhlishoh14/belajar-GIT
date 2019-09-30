@@ -6,3 +6,8 @@ kamis : GNS 3
 jumat : Triger DB
 sabtu : Misbah Tugas Kelompok UI
 minggu : Misbah Tugas Kelompok Basis Data Lanjut
+
+
+
+
+ini file nya branch
